@@ -5,6 +5,8 @@ from PIL import Image
 import numpy as np
 from matplotlib import pyplot as plt
 
+#Comment Comment
+
 for i in range (91):
 	i = str(i)
 	stage1=sys.argv[2] + "image" + i + ".jpg"
